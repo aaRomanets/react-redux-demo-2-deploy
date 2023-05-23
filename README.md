@@ -1,2 +1,4 @@
-deploy-ссылка https://main--rainbow-donut-a3491f.netlify.app/
-github-ссылка https://github.com/aaRomanets/react-redux-demo-2-deploy.git
+Github ссылка https://github.com/aaRomanets/react-redux-demo-2-docker-github.git
+Локальный адрес http://localhost:2026
+образ react-redux-demo-2-client
+контейнер react-redux-demo-2-client-frontend
